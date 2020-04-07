@@ -1,6 +1,7 @@
 # AROMA代码推荐
 
 AROMA是Facebook开发的代码推荐插件，论文：https://arxiv.org/pdf/1812.01158.pdf
+github: https://github.com/facebookresearch/aroma-paper-artifacts
 
 ## 代码语法树解析
 
